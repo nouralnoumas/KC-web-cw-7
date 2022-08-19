@@ -18,7 +18,7 @@ if (bmi < 18.5) {
     return "لديك زيادة في الوزن"
 
  }
- }
+ } 
 
 function calculate (){
     let weight =document.getElementById(`weight`).value
